@@ -1,0 +1,141 @@
+,title,location,price(L),rate_persqft,area_insqft,building_status
+0,Residential Plot,Gachibowli,200.0,5555 ,3600 ,New
+1,2 BHK Apartment,Bachupally,38.0,3368 ,1128 ,Ready to move
+2,Residential Plot,Yadagirigutta,24.5,778 ,3150 ,New
+3,2 BHK Apartment,Kukatpally,56.79,4960 ,1145 ,Ready to move
+4,2 BHK Apartment,Raviryal,25.0,1785 ,1400 ,Under Construction
+5,2 BHK Apartment,Adibatla,33.0,2750 ,1200 ,Under Construction
+6,Residential Plot,Adibatla,38.4,1778 ,2160 ,New
+7,3 BHK Apartment,Kokapet,124.0,5800 ,2150 ,Ready to move
+8,Residential Plot,Maheshwaram,23.99,1333 ,1800 ,New
+9,2 BHK Independent House,Aushapur,45.0,5000 ,900 ,Under Construction
+10,2 BHK Apartment,Kondapur,86.96,6504 ,1338 ,Under Construction
+11,3 BHK Apartment,raidurgam,78.0,4495 ,1735 ,Ready to move
+12,Residential Plot,Sangareddy,11.82,722 ,1638 ,New
+13,3 BHK Apartment,Nagole,85.89,5250 ,1636 ,Ready to move
+14,3 BHK Apartment,Chandanagar,67.39,4800 ,1404 ,Under Construction
+15,Residential Plot,Shamirpet,11.4,1055 ,1080 ,New
+16,3 BHK Villa,Mallampet,90.0,4864 ,1850 ,Under Construction
+17,3 BHK Apartment,Bachupally,73.75,4500 ,1639 ,Under Construction
+18,3 BHK Apartment,Manikonda,88.35,5000 ,1767 ,Under Construction
+19,3 BHK Apartment,Nizampet,89.25,5000 ,1785 ,Under Construction
+20,Residential Plot,Maheshwaram,21.72,1333 ,1629 ,New
+21,Residential Plot,Shadnagar,16.2,640 ,2530 ,New
+22,2 BHK Apartment,Kushaiguda,43.04,4000 ,1076 ,Ready to move
+23,Residential Plot,Maheshwaram,15.2,1055 ,1440 ,New
+24,Residential Plot,Sadashivpet,19.34,1557 ,1242 ,New
+25,Residential Plot,Gandhinagar,8.0,604 ,1323 ,New
+26,Residential Plot,Ibrahimpatnam,6.0,368 ,1629 ,New
+27,Residential Plot,Sadashivpet,12.73,466 ,2727 ,New
+28,2 BHK Apartment,Chandanagar,50.8,5000 ,1016 ,Under Construction
+29,3 BHK Villa,Pati,166.0,6384 ,2600 ,Under Construction
+30,2 BHK Apartment,Bandlaguda Jagir,43.0,3909 ,1100 ,Ready to move
+31,2 BHK Apartment,Nanakramguda,76.0,6333 ,1200 ,Under Construction
+32,3 BHK Apartment,Miyapur,79.2,5126 ,1545 ,Under Construction
+33,Residential Plot,Adibatla,18.62,1655 ,1125 ,New
+34,Residential Plot,Amangal,10.0,556 ,1800 ,New
+35,3 BHK Villa,Kompally,204.99999999999997,7250 ,2830 ,Under Construction
+36,3 BHK Villa,Kokapet,244.0,7790 ,3140 ,Ready to move
+37,3 BHK Villa,Shankarpally Road,85.0,5666 ,1500 ,Under Construction
+38,Residential Plot,Gachibowli,400.0,5555 ,7200 ,New
+39,3 BHK Villa,Kompally,234.0,8161 ,2875 ,Under Construction
+40,2 BHK Independent House,AS Rao Nagar,120.0,4800 ,2500 ,Ready to move
+41,3 BHK Apartment,Kondapur,130.0,5990 ,2170 ,Ready to move
+42,3 BHK Independent House,Boduppal,85.0,4473 ,1900 ,Ready to move
+43,2 BHK Apartment,Sanath Nagar,140.0,7446 ,1880 ,Ready to move
+44,2 BHK Apartment,Puppalaguda,75.0,6000 ,1250 ,Ready to move
+45,Residential Plot,Bhanur,69.61,2900 ,2400 ,New
+46,Residential Plot,Bhuvanagiri,10.0,5000 ,200 ,New
+47,4 BHK Apartment,Himayat Nagar,240.0,8888 ,2700 ,Ready to move
+48,6 BHK Independent House,Almasguda,125.0,5208 ,2400 ,Ready to move
+49,3 BHK Apartment,Nallagandla Gachibowli,120.0,6499 ,1860 ,Ready to move
+50,3 BHK Apartment,Bachupally,87.63,4600 ,1905 ,Under Construction
+51,Residential Plot,Pocharam Near Muthangi,42.2,2445 ,1727 ,New
+52,2 BHK Apartment,Nacharam,47.0,4476 ,1050 ,Ready to move
+53,2 BHK Apartment,Nizampet,52.42,4503 ,1165 ,Under Construction
+54,3 BHK Villa,Mallampet,76.0,3788 ,2006 ,Under Construction
+55,3 BHK Villa,Beeramguda,88.0,4386 ,2006 ,Under Construction
+56,3 BHK Villa,Uppal Kalan,120.0,4000 ,3000 ,Ready to move
+57,Residential Plot,Patancheru,41.58,2444 ,1701 ,New
+58,Residential Plot,Shankarpalli,60.0,666 ,9000 ,New
+59,3 BHK Villa,Appa Junction Peerancheru,235.0,7200 ,3271 ,Ready to move
+60,3 BHK Apartment,Narsingi,108.0,6290 ,1725 ,Under Construction
+61,3 BHK Apartment,Narsingi,106.0,6290 ,1700 ,Under Construction
+62,Residential Plot,Alair,159.0,3399 ,4686 ,New
+63,Residential Plot,Alair,183.0,3399 ,5386 ,New
+64,Residential Plot,Alair,94.83,3399 ,2790 ,New
+65,Residential Plot,Alair,64.07,3399 ,1885 ,New
+66,Residential Plot,Alair,89.86,3400 ,2644 ,New
+67,Residential Plot,Alair,89.73,3400 ,2640 ,New
+68,Residential Plot,Alair,53.01,3400 ,1560 ,New
+69,Residential Plot,Alair,115.99999999999999,3399 ,3420 ,New
+70,Residential Plot,Alair,112.99999999999999,3399 ,3339 ,New
+71,Residential Plot,Alair,92.45,3400 ,2720 ,New
+72,Residential Plot,Alair,67.3,3399 ,1980 ,New
+73,Residential Plot,Alair,48.94,3399 ,1440 ,New
+74,Residential Plot,Alair,44.86,3401 ,1320 ,New
+75,Residential Plot,Alair,54.38,3401 ,1600 ,New
+76,Residential Plot,Alair,62.54,3400 ,1840 ,New
+77,Residential Plot,Alair,146.0,3399 ,4301 ,New
+78,Residential Plot,Alair,73.41,3400 ,2160 ,New
+79,3 BHK Apartment,Kismatpur,83.58,4600 ,1817 ,Under Construction
+80,3 BHK Apartment,Kismatpur,79.21,4600 ,1722 ,Under Construction
+81,3 BHK Apartment,Kismatpur,79.48,4600 ,1728 ,Under Construction
+82,3 BHK Apartment,Kismatpur,70.38,4600 ,1530 ,Under Construction
+83,3 BHK Apartment,Mokila,52.36,4000 ,1309 ,Under Construction
+84,3 BHK Apartment,Kismatpur,70.75,4800 ,1474 ,Under Construction
+85,3 BHK Apartment,Kismatpur,89.13,4800 ,1857 ,Under Construction
+86,2 BHK Apartment,Nizampet,57.34,4700 ,1220 ,Ready to move
+87,3 BHK Apartment,Nizampet,77.55,4700 ,1650 ,Ready to move
+88,3 BHK Apartment,Nizampet,78.96,4700 ,1680 ,Ready to move
+89,3 BHK Apartment,Nizampet,73.08,4700 ,1555 ,Ready to move
+90,3 BHK Apartment,Nizampet,79.19,4700 ,1685 ,Ready to move
+91,3 BHK Apartment,Nizampet,71.44,4700 ,1520 ,Ready to move
+92,2 BHK Apartment,Nizampet,57.57,4700 ,1225 ,Ready to move
+93,3 BHK Apartment,Nizampet,84.36,4700 ,1795 ,Ready to move
+94,2 BHK Apartment,Nizampet,67.44,4700 ,1435 ,Ready to move
+95,2 BHK Apartment,Nizampet,67.21,4700 ,1430 ,Ready to move
+96,2 BHK Apartment,Nizampet,59.45,4700 ,1265 ,Ready to move
+97,Residential Plot,Wangapalli,45.88,3401 ,1350 ,New
+98,Residential Plot,Wangapalli,152.0,3399 ,4500 ,New
+99,3 BHK Apartment,Yapral,136.0,5100 ,2675 ,Under Construction
+100,3 BHK Apartment,Yapral,140.0,5100 ,2755 ,Under Construction
+101,3 BHK Apartment,Yapral,157.0,5100 ,3090 ,Under Construction
+102,4 BHK Apartment,Yapral,195.0,5100 ,3835 ,Under Construction
+103,4 BHK Apartment,Yapral,192.0,5100 ,3765 ,Under Construction
+104,3 BHK Apartment,Yapral,124.0,5100 ,2435 ,Under Construction
+105,3 BHK Apartment,Yapral,124.0,5100 ,2450 ,Under Construction
+106,3 BHK Apartment,Yapral,155.0,5100 ,3050 ,Under Construction
+107,4 BHK Apartment,Yapral,194.0,5100 ,3810 ,Under Construction
+108,4 BHK Villa,Maheshwaram,200.99999999999997,5686 ,3552 ,Under Construction
+109,4 BHK Villa,Maheshwaram,185.0,5790 ,3212 ,Under Construction
+110,2 BHK Apartment,Bachupally,52.58,4400 ,1195 ,Under Construction
+111,3 BHK Apartment,Bachupally,74.58,4400 ,1695 ,Under Construction
+112,3 BHK Apartment,Bachupally,70.18,4400 ,1595 ,Under Construction
+113,3 BHK Apartment,Gopanpally,120.0,5600 ,2151 ,Under Construction
+114,3 BHK Apartment,Gopanpally,121.0,5601 ,2176 ,Under Construction
+115,3 BHK Apartment,Gopanpally,98.01,5601 ,1751 ,Under Construction
+116,3 BHK Apartment,Gopanpally,107.0,5600 ,1926 ,Under Construction
+117,3 BHK Apartment,Gopanpally,96.62,5601 ,1726 ,Under Construction
+118,2 BHK Apartment,Mokila,45.98,3800 ,1210 ,Under Construction
+119,2 BHK Apartment,Mokila,46.36,3800 ,1220 ,Under Construction
+120,2 BHK Apartment,Mokila,44.84,3800 ,1180 ,Under Construction
+121,3 BHK Apartment,Mokila,61.75,3800 ,1625 ,Under Construction
+122,2 BHK Apartment,Mokila,45.22,3800 ,1190 ,Under Construction
+123,3 BHK Apartment,Bandlaguda Jagir,90.22,5200 ,1735 ,Under Construction
+124,3 BHK Apartment,Bandlaguda Jagir,83.98,5200 ,1615 ,Under Construction
+125,3 BHK Apartment,Bandlaguda Jagir,84.5,5200 ,1625 ,Under Construction
+126,3 BHK Apartment,Bandlaguda Jagir,86.32,5200 ,1660 ,Under Construction
+127,2 BHK Apartment,Adibatla,45.55,3802 ,1199 ,Under Construction
+128,3 BHK Apartment,Adibatla,56.99,3802 ,1500 ,Under Construction
+129,2 BHK Apartment,Adibatla,45.45,3800 ,1196 ,Under Construction
+130,3 BHK Apartment,Adibatla,57.01,3800 ,1500 ,Under Construction
+131,3 BHK Apartment,Adibatla,50.83,3802 ,1338 ,Under Construction
+132,2 BHK Apartment,Adibatla,41.82,3802 ,1101 ,Under Construction
+133,3 BHK Apartment,Adibatla,75.0,3801 ,1974 ,Under Construction
+134,2 BHK Apartment,Adibatla,40.61,3802 ,1069 ,Under Construction
+135,2 BHK Apartment,Adibatla,41.79,3803 ,1100 ,Under Construction
+136,Residential Plot,Alair,18.39,511 ,3600 ,New
+137,Residential Plot,Alair,9.19,511 ,1800 ,New
+138,Residential Plot,Alair,7.35,511 ,1440 ,New
+139,Residential Plot,Alair,13.79,511 ,2700 ,New
