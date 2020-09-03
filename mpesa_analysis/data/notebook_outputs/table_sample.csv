@@ -1,81 +1,78 @@
-,Receipt No.,Completion Time,Details,,Transaction,Paid In,Withdrawn,Balance
+,Receipt No.,Completion Time,,Details,Transaction,Paid In,Withdrawn,Balance
 1,,,,,Status,,,
-2,OHB6IVK6E2,2020-08-11 12:52:35,Customer Transfer to 254725950517 - BERNARD,,Completed,,-528.00,"1,830.77"
-3,,,MUTAI,,,,,
-4,OHB1ILJPP3,2020-08-11 07:51:23,Pay Bill Charge,,Completed,,-56.00,"2,358.77"
-5,OHB1ILJPP3,2020-08-11 07:51:23,Pay Bill to 4017474 - VIJIJI CONNECT LTDAcc.,,Completed,,"-3,100.00","2,414.77"
-6,,,VGG000868,,,,,
-7,OHB9ILGPJZ,2020-08-11 07:47:25,Business Payment from 400201 - Co-operative Bank via,,Completed,"5,000.00",,"5,514.77"
-8,,,API. Original conversation ID is 008_EC100394389182.,,,,,
-9,OH91H319SN,2020-08-09 16:11:22,Merchant Payment Online to 592875 - CARREFOUR,,Completed,,"-2,692.00",514.77
-10,,,TRM 03,,,,,
-11,OH90GX10B4,2020-08-09 13:25:55,Customer Transfer of Funds Charge,,Completed,,-41.00,"3,206.77"
-12,OH90GX10B4,2020-08-09 13:25:55,Customer Transfer to 254726126629 - EVANS,,Completed,,"-1,528.00","3,247.77"
-13,,,OCHIAGA,,,,,
-14,OH73EVI1CR,2020-08-07 13:54:21,Customer Transfer to 254759653599 - NGETICH DAVID,,Completed,,-528.00,"4,775.77"
-15,,,KIMUTAI,,,,,
-16,OH60DW20T4,2020-08-06 15:23:35,Merchant Payment to 952899 - WATER SHOP,,Completed,,-200.00,"5,303.77"
-17,OH50CKSDRU,2020-08-05 11:57:34,Customer Transfer of Funds Charge,,Completed,,-41.00,"5,503.77"
-18,OH50CKSDRU,2020-08-05 11:57:34,Customer Transfer to 254702414581 - ESTHER,,Completed,,"-2,024.00","5,544.77"
-19,,,MUMBUA MUINDE,,,,,
-20,OH53CKMG8P,2020-08-05 11:53:13,Merchant Payment to 289636 - SAMUL MERCHANTS -,,Completed,,"-4,060.00","7,568.77"
-21,,,KCB,,,,,
-22,OH59CKDVML,2020-08-05 11:46:53,Pay Bill Online to 200200 - Safaricom Post Paid Acc.,,Completed,,-53.00,"11,628.77"
-23,,,711170904,,,,,
-24,OH45BFASAB,2020-08-04 10:14:15,Customer Transfer to 254728076771 - ESTHER,,Completed,,-30.00,"11,681.77"
-25,,,CHEPKEMOI MUTAI,,,,,
-26,OH46BFAEB0,2020-08-04 10:13:54,Customer Transfer to 254728076771 - ESTHER,,Completed,,"-1,000.00","11,711.77"
-27,,,CHEPKEMOI MUTAI,,,,,
-28,OH30B1AAUI,2020-08-03 19:11:42,Airtime Purchase,,Completed,,-50.00,"12,711.77"
-29,OH36AV4PQK,2020-08-03 17:11:31,Deposit of Funds at Agent Till 233409 - Natsars Ltd,,Completed,"10,000.00",,"12,761.77"
-30,,,Zimmerman Area Behind Co-op Bank by Natsars Ltd,,,,,
-31,,,Zimmerman Area Behind Co-op Bank - MW,,,,,
-32,OH32ATKFNA,2020-08-03 16:35:35,Withdrawal Charge,,Completed,,-28.00,"2,761.77"
-33,OH32ATKFNA,2020-08-03 16:35:35,Customer Withdrawal At Agent Till 645803 - JOYNET,,Completed,,"-1,000.00","2,789.77"
-34,,,ESTATE DAGORETTI Agg,,,,,
-35,OH26A1YK9W,2020-08-02 19:09:03,Merchant Payment to 960657 - CARREFOUR TRM 24,,Completed,,"-1,437.00","3,789.77"
-36,OH118UAXMD,2020-08-01 15:22:54,Customer Transfer of Funds Charge,,Completed,,-41.00,"5,226.77"
-37,OH118UAXMD,2020-08-01 15:22:54,Customer Transfer to 254725950517 - BERNARD,,Completed,,"-1,530.00","5,267.77"
-38,,,MUTAI,,,,,
-39,OH108P2DN4,2020-08-01 13:06:26,Merchant Payment to 147939 - Olive Restaurant,,Completed,,-700.00,"6,797.77"
-40,OH188N6Q0A,2020-08-01 12:16:40,Withdrawal Charge,,Completed,,-28.00,"7,497.77"
-41,OH188N6Q0A,2020-08-01 12:16:40,Customer Withdrawal At Agent Till 078821 - Takreem,,Completed,,"-2,500.00","7,525.77"
-42,,,Conn Muthurwa Market Agg,,,,,
-43,OH128N5P10,2020-08-01 12:15:54,Business Payment from 400201 - Co-operative Bank via,,Completed,"10,000.00",,"10,025.77"
-44,,,API. Original conversation ID is 008_EC100388763774.,,,,,
-45,OH118M5XCL,2020-08-01 11:49:16,Withdrawal Charge,,Completed,,-28.00,25.77
-46,OH118M5XCL,2020-08-01 11:49:16,Customer Withdrawal At Agent Till 374738 - Dreamland,,Completed,,"-1,500.00",53.77
-47,,,Agencies Limited Star shopping mall Kamukunji Market,,,,,
-48,,,agg,,,,,
-49,OH118GXFT5,2020-08-01 09:20:06,Withdrawal Charge,,Completed,,-50.00,"1,553.77"
-50,OH118GXFT5,2020-08-01 09:20:06,Customer Withdrawal At Agent Till 231055 - Mahalla,,Completed,,"-3,500.00","1,603.77"
-51,,,ConnectioN Jowab poly shop gikomba,,,,,
-52,OGV47X13LY,2020-07-31 17:01:35,Withdrawal Charge,,Completed,,-112.00,"5,103.77"
-53,OGV47X13LY,2020-07-31 17:01:35,Customer Withdrawal At Agent Till 233409 - Natsars Ltd,,Completed,,"-10,000.00","5,215.77"
-54,,,Zimmerman Area Behind Co-op Bank,,,,,
-55,OGV77WRTI9,2020-07-31 16:55:30,Merchant Payment to 835857 - WA-DENNIS CEREAL,,Completed,,"-1,350.00","15,215.77"
-56,,,STORE  8,,,,,
-57,OGV67R5XQ8,2020-07-31 14:30:16,Pay Bill Charge,,Completed,,-23.00,"16,565.77"
-58,OGV67R5XQ8,2020-07-31 14:30:16,Pay Bill Online to 888880 - KPLC PREPAID Acc.,,Completed,,-500.00,"16,588.77"
-59,,,14105997663,,,,,
-60,OGV47HG5HC,2020-07-31 10:08:25,Pay Bill Online to 244441 - SAFARICOM POSTPAID,,Completed,,-99.00,"17,088.77"
-61,,,BUNDLES Acc. 254,,,,,
-62,OGV47ATJHC,2020-07-31 00:42:55,Pay Bill Charge,,Completed,,-34.00,"17,187.77"
-63,OGV47ATJHC,2020-07-31 00:42:55,Pay Bill Online to 714777 - NCBA LOOP Acc.,,Completed,,"-1,000.00","17,221.77"
-64,,,0711170904,,,,,
-65,OGU47A42L0,2020-07-30 22:51:33,Customer Transfer to 254710677386 - KIPKURUI,,Completed,,-527.00,"18,221.77"
-66,,,HILLARY LANGAT,,,,,
-67,OGU36IYGHR,2020-07-30 11:20:54,Customer Transfer of Funds Charge,,Completed,,-41.00,"18,748.77"
-68,OGU36IYGHR,2020-07-30 11:20:54,Customer Transfer to 254721885480 - CHARLES,,Completed,,"-2,028.00","18,789.77"
-69,,,KOECH,,,,,
-70,OGT367TOIJ,2020-07-29 21:26:28,Airtime Purchase,,Completed,,-100.00,"20,817.77"
-71,OGT867T9TI,2020-07-29 21:26:03,Airtime Purchase,,Completed,,-100.00,"20,917.77"
-72,OGT867SVRE,2020-07-29 21:25:35,Airtime Purchase,,Completed,,-110.00,"21,017.77"
-73,OGT667RPQU,2020-07-29 21:24:30,Airtime Purchase,,Completed,,-100.00,"21,127.77"
-74,OGT7620HVB,2020-07-29 19:11:24,Customer Transfer to 0717830684 - LANGAT KIPKEMOI,,Completed,,-227.00,"21,227.77"
-75,,,VINCENT,,,,,
-76,OGT45ZSHU4,2020-07-29 18:32:03,Merchant Payment to 791609 - CARREFOUR TRM 13,,Completed,,"-6,441.00","21,454.77"
-77,OGT75YS4VZ,2020-07-29 18:13:04,Business Payment from 400201 - Co-operative Bank via,,Completed,"25,000.00",,"27,895.77"
-78,,,API. Original conversation ID is 008_EC100387014835.,,,,,
-79,OGT95YO105,2020-07-29 18:10:58,Pay Bill to 200200 - Safaricom Post Paid Acc.,,Completed,,"-1,000.00","2,895.77"
-80,,,0711170904,,,,,
+2,OGB4NIKQNE,2020-07-11 00:06:45,M-Shwari Withdraw,,Completed,"3,000.00",,"3,766.59"
+3,OG81KWV0TT,2020-07-08 12:46:30,Customer Transfer of Funds Charge,,Completed,,-41.00,766.59
+4,OG81KWV0TT,2020-07-08 12:46:30,Customer Transfer to 254725950517 - BERNARD,,Completed,,"-1,530.00",807.59
+5,,,MUTAI,,,,,
+6,OG80KWUE2C,2020-07-08 12:45:57,M-Shwari Withdraw,,Completed,"2,000.00",,"2,337.59"
+7,OG82KVG988,2020-07-08 12:06:55,Customer Transfer of Funds Charge,,Completed,,-26.00,337.59
+8,OG82KVG988,2020-07-08 12:06:55,Customer Transfer to 254720050960 - CHELANGAT,,Completed,,"-1,028.00",363.59
+9,,,DAISY DAISY,,,,,
+10,OG72KBOQRY,2020-07-07 18:44:17,Customer Transfer of Funds Charge,,Completed,,-77.00,"1,391.59"
+11,OG72KBOQRY,2020-07-07 18:44:17,Customer Transfer to 254724775068 - CALEB,,Completed,,"-5,067.00","1,468.59"
+12,,,CHERUIYOT BIEGON,,,,,
+13,OG72KBM748,2020-07-07 18:43:04,M-Shwari Withdraw,,Completed,"5,000.00",,"6,535.59"
+14,OG71JRKQIL,2020-07-07 10:16:27,M-Shwari Deposit,,Completed,,"-10,000.00","1,535.59"
+15,OG65JBYH9Z,2020-07-06 18:29:06,Funds received from 0791913116 - Kipyegon,Titus,Completed,"10,000.00",,"11,535.59"
+16,OG64J6N1BE,2020-07-06 16:34:35,Customer Transfer to 254725950517 - BERNARD,,Completed,,-750.00,"1,535.59"
+17,,,MUTAI,,,,,
+18,OG63J6K6GB,2020-07-06 16:32:48,M-Shwari Deposit,,Completed,,"-8,060.00","2,285.59"
+19,OG69J4KJ25,2020-07-06 15:42:27,Funds received from 254723576355 - NOAH KIPTANUI,,Completed,"2,030.00",,"10,345.59"
+20,OG51IKGM41,2020-07-05 21:10:40,Business Payment from 501901 - KCB 1 via API,,Completed,"2,030.00",,"8,315.59"
+21,OG59IG9SUX,2020-07-05 19:26:03,Funds received from 254707182219 - David Henry,,Completed,"4,000.00",,"6,285.59"
+22,,,Kariuki,,,,,
+23,OG40HAO1TE,2020-07-04 16:49:26,Withdrawal Charge,,Completed,,-10.00,"2,285.59"
+24,OG40HAO1TE,2020-07-04 16:49:26,Customer Withdrawal At Agent Till 2018970 - Miraj Inv,,Completed,,-100.00,"2,295.59"
+25,,,blessed shop mavoko,,,,,
+26,OG40GZRPOS,2020-07-04 12:18:11,Pay Bill Charge,,Completed,,-34.00,"2,395.59"
+27,OG40GZRPOS,2020-07-04 12:18:11,Pay Bill to 824730 - SLEEKLADY COSMETICS LIMITED,,Completed,,"-1,425.00","2,429.59"
+28,,,Acc. B33,,,,,
+29,OG45GYQYXR,2020-07-04 11:51:01,Merchant Payment to 826537 - House of Leather-Hazina,,Completed,,"-1,900.00","3,854.59"
+30,,,2,,,,,
+31,OG40GYQ770,2020-07-04 11:50:27,Business Payment from 400201 - Co-operative Bank via,,Completed,"5,000.00",,"5,754.59"
+32,,,API,,,,,
+33,OG41GVWNZ9,2020-07-04 10:33:14,Withdrawal Charge,,Completed,,-50.00,754.59
+34,OG41GVWNZ9,2020-07-04 10:33:14,Customer Withdrawal At Agent Till 381119 - Climbingstar,,Completed,,"-3,500.00",804.59
+35,,,ag. ltdOLD NATION HOUSE TELLER3agg,,,,,
+36,OG40GVVYGW,2020-07-04 10:32:38,Business Payment from 400201 - Co-operative Bank via,,Completed,"3,000.00",,"4,304.59"
+37,,,API,,,,,
+38,OG30GG5G4S,2020-07-03 18:55:44,Customer Transfer of Funds Charge,,Completed,,-26.00,"1,304.59"
+39,OG30GG5G4S,2020-07-03 18:55:44,Customer Transfer to 254711361054 - PATRICK MUUO,,Completed,,"-1,330.00","1,330.59"
+40,,,KINGOO,,,,,
+41,OG39G17BVX,2020-07-03 13:06:10,Customer Transfer of Funds Charge,,Completed,,-56.00,"2,660.59"
+42,OG39G17BVX,2020-07-03 13:06:10,Customer Transfer to 254707413155 - carolyne jepkirui,,Completed,,"-3,050.00","2,716.59"
+43,OG22FG9VDI,2020-07-02 18:49:52,Pay Bill Charge,,Completed,,-23.00,"5,766.59"
+44,OG22FG9VDI,2020-07-02 18:49:52,Pay Bill Online to 888880 - KPLC PREPAID Acc.,,Completed,,-500.00,"5,789.59"
+45,,,14105997663,,,,,
+46,OG27FB3HY7,2020-07-02 17:05:09,Merchant Payment to 835857 - WA-DENNIS CEREAL,,Completed,,-970.00,"6,289.59"
+47,,,STORE  8,,,,,
+48,OG23FANYPL,2020-07-02 16:55:12,Merchant Payment to 139917 - Power Star Zimmerman,,Completed,,-655.00,"7,259.59"
+49,OG22F2XEG2,2020-07-02 13:31:33,Pay Bill to 200200 - Safaricom Post Paid Acc.,,Completed,,"-1,000.00","7,914.59"
+50,,,0711170904,,,,,
+51,OG27F1HOJB,2020-07-02 12:51:28,Pay Bill Charge,,Completed,,-112.00,"8,914.59"
+52,OG27F1HOJB,2020-07-02 12:51:28,Pay Bill Online to 540700 - Mhasibu SACCO Society,,Completed,,"-10,000.00","9,026.59"
+53,,,Limited Acc. MHS22735DEP,,,,,
+54,OG20F1E62M,2020-07-02 12:48:45,Business Payment from 400201 - Co-operative Bank via,,Completed,"10,000.00",,"19,026.59"
+55,,,API,,,,,
+56,OG12EKUO7M,2020-07-01 19:58:13,Airtime Purchase,,Completed,,-50.00,"9,026.59"
+57,OG12EGMUBO,2020-07-01 18:43:54,Business Payment from 501901 - KCB 1 via API,,Completed,"3,050.00",,"9,076.59"
+58,OG18ECMLHW,2020-07-01 17:27:04,Merchant Payment to 7003065 - TOGER CHEMIST,,Completed,,-100.00,"6,026.59"
+59,OG19ECIQG3,2020-07-01 17:24:48,Withdrawal Charge,,Completed,,-112.00,"6,126.59"
+60,OG19ECIQG3,2020-07-01 17:24:48,Customer Withdrawal At Agent Till 233409 - Natsars Ltd,,Completed,,"-10,000.00","6,238.59"
+61,,,Zimmerman Area Behind Co-op Bank,,,,,
+62,OG13EC6ZER,2020-07-01 17:17:50,Merchant Payment to 309590 - USAFI TWO BUTCHERY,,Completed,,-400.00,"16,238.59"
+63,OG12EBPYGC,2020-07-01 17:07:39,Withdrawal Charge,,Completed,,-27.00,"16,638.59"
+64,OG12EBPYGC,2020-07-01 17:07:39,Customer Withdrawal At Agent Till 414415 - Walts,,Completed,,-500.00,"16,665.59"
+65,,,Ventures Neema Shop Brigadier Centre Agg,,,,,
+66,OG12E8ILD8,2020-07-01 15:49:48,Merchant Payment to 722791 - CARREFOUR TRM 30,,Completed,,"-6,060.00","17,165.59"
+67,OG14E2KPFS,2020-07-01 13:08:34,Airtime Purchase,,Completed,,-100.00,"23,225.59"
+68,OG15E2K6UX,2020-07-01 13:08:11,Airtime Purchase,,Completed,,-100.00,"23,325.59"
+69,OG14E2JE78,2020-07-01 13:07:40,Airtime Purchase,,Completed,,-120.00,"23,425.59"
+70,OG11DV6UTR,2020-07-01 09:36:23,Customer Transfer of Funds Charge,,Completed,,-56.00,"23,545.59"
+71,OG11DV6UTR,2020-07-01 09:36:23,Customer Transfer to 254724775068 - CALEB,,Completed,,"-3,050.00","23,601.59"
+72,,,CHERUIYOT BIEGON,,,,,
+73,OG13DV5XJ7,2020-07-01 09:35:33,Business Payment from 400201 - Co-operative Bank via,,Completed,"25,000.00",,"26,651.59"
+74,,,API,,,,,
+75,OFU0DCS282,2020-06-30 17:41:17,Withdrawal Charge,,Completed,,-28.00,"1,651.59"
+76,OFU0DCS282,2020-06-30 17:41:17,Customer Withdrawal At Agent Till 382850 - Loadman,,Completed,,"-2,000.00","1,679.59"
+77,,,Response Ltd Farmfresh Milk Supplies Ndifatha Agg,,,,,
