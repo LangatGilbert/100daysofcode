@@ -30,35 +30,63 @@ import streamlit as st
 import warnings
 warnings.filterwarnings('ignore')
 
-#import data
-mpesa_df = pd.read_csv("../data/notebook_outputs/aggregated_mpesa_charges.csv")
 
 #setting up the title
-st.title("Mpesa Transactions  Data Analysis for Year 2020")
+st.title("Analyse your MPESA usage")
 
 st.markdown("""
-This is an hobby project trying to understand my expenses|income during the past year. The Goal is to answer the following"
-* Who do I send money often?
-* In most cases where do my incomes come from on month-to-month basis?
-* Most common merchants I transact with
+This is an hobby project trying to understand my expenses|income during a specified period. The Goal is to answer the following:"
+* Common Income streams 
+* Common expenses
+* Most common merchants
 """
 )
 
+#insert file uploading sidebar
+
+uploaded_file = st.sidebar.file_uploader("Upload your input CSV file", type=["csv"]) 
+
+#@st.cache
+#import data
+mpesa_df = pd.read_csv(uploaded_file)
+
+
 st.sidebar.header("Input A Specific Month of Interest")
-selected_year = st.sidebar.selectbox('transactions_cohort', list(reversed(range(2015,2021))))
+selected_year = st.sidebar.selectbox('Transactions Year', list(reversed(range(2019,2021))))
 
 # Sidebar - Group selection selection
 sorted_unique_group = sorted(mpesa_df.transactions_group.unique())
 selected_group = st.sidebar.multiselect('transactions_group', sorted_unique_group, sorted_unique_group)
 
-#Filtering data
-df_selected_group = mpesa_df[(mpesa_df.transactions_group.isin(selected_group))]# & (mpesa_df.Pos.isin(selected_pos))]
-
-st.header('Display Player Stats of Selected Group(s)')
-st.write('Data Dimension: ' + str(df_selected_group.shape[0]) + ' rows and ' + str(df_selected_group.shape[1]) + ' columns.')
-st.dataframe(df_selected_group)
-
 
 #creating select box
 st.sidebar.title("Transaction Month")
-select = st.sidebar.selectbox('month', ['March', 'April', 'May', 'June', 'July', 'August'], key='1')
+sorted_month_group = sorted(mpesa_df.month.unique())
+month_group = st.sidebar.multiselect('month', sorted_month_group, sorted_month_group)
+
+#Filtering data
+df_selected_group = mpesa_df[(mpesa_df['year']==selected_year) & (mpesa_df.month.isin(month_group)) & (mpesa_df.transactions_group.isin(selected_group))]
+
+st.header('Display Transactions Stats of Selected Group(s)')
+st.write('Data Dimension: ' + str(df_selected_group.shape[0]) + ' rows and ' + str(df_selected_group.shape[1]) + ' columns.')
+st.dataframe(df_selected_group)
+
+# #filtering data per the month
+# df_month_group = mpesa_df[(mpesa_df.month.isin(month_group))]
+
+
+# st.header('Display the Monthly Stats of Selected Group(s)')
+# st.write('Data Dimension: ' + str(df_month_group.shape[0]) + ' rows and ' + str(df_month_group.shape[1]) + ' columns.')
+# st.dataframe(df_month_group)
+
+#Download the csv file.
+def filedownload(df):
+    csv = df.to_csv(index=False)
+    b64 = base64.b64encode(csv.encode()).decode()
+    href = f'<a href = "data:file/csv;base64,{b64}" download = "df_selected_group.csv">Download CSV File </a>'
+    return href
+
+st.markdown(filedownload(df_selected_group), unsafe_allow_html = True)
+
+
+#select = st.sidebar.selectbox('month', ['January','February','March', 'April', 'May', 'June', 'July', 'August'], key='1')
