@@ -22,9 +22,12 @@ import calendar
 #dashboard creation
 import streamlit as st
 
+from mpesa_analyser import pdf_cleaner_wrangler
 
-# #for pdf extraction as pdf
-# import tabula
+#for pdf extraction as pdf
+import tabula
+from tabula.io import read_pdf
+
 
 # Supress unnecessary warnings so that presentation looks clean
 import warnings
@@ -32,24 +35,27 @@ warnings.filterwarnings('ignore')
 
 
 #setting up the title
-st.title("Analyse your MPESA usage")
+st.title("Analyse your MPESA Transactions")
 
 st.markdown("""
 This is an hobby project trying to understand my expenses|income during a specified period. The Goal is to answer the following:"
-* Common Income streams 
+* Common income streams 
 * Common expenses
 * Most common merchants
 """
 )
 
+st.sidebar.title("File Uploading and Filtering:")
+
 #insert file uploading sidebar
+uploaded_file = st.sidebar.file_uploader("Upload your input CSV file", type=["pdf"]) 
 
-uploaded_file = st.sidebar.file_uploader("Upload your input CSV file", type=["csv"]) 
+#input the pdf password
+password = st.sidebar.text_input("Input your pdf password","Type Here",type = 'password')
 
-#@st.cache
-#import data
-mpesa_df = pd.read_csv(uploaded_file)
+dfs = tabula.read_pdf(uploaded_file,pages="all",multiple_tables=True,password = password,stream=True, lattice=  True)
 
+mpesa_df = pdf_cleaner_wrangler(dfs)
 
 st.sidebar.header("Input A Specific Month of Interest")
 selected_year = st.sidebar.selectbox('Transactions Year', list(reversed(range(2019,2021))))
@@ -88,5 +94,9 @@ def filedownload(df):
 
 st.markdown(filedownload(df_selected_group), unsafe_allow_html = True)
 
+#show bar of each cateory
+agree = st.button("Click to a visualization")
+if agree:
+ st.bar_chart(df_selected_group['transactions_group'])
 
 #select = st.sidebar.selectbox('month', ['January','February','March', 'April', 'May', 'June', 'July', 'August'], key='1')
