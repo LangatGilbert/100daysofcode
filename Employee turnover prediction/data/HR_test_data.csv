@@ -1,4 +1,4 @@
-satisfaction_level,last_evaluation,number_project,average_montly_hours,time_spend_company,Work_accident,left,promotion_last_5years,sales,salary
+satisfaction_level,last_evaluation,number_project,average_montly_hours,time_spend_company,Work_accident,left,promotion_last_5years,dept,salary
 0.41,0.5,2,153,3,0,1,0,sales,low
 0.45,0.51,2,160,3,1,1,1,sales,low
 0.45,0.5,2,126,3,0,1,0,technical,low
